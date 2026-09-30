@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://pierceplucker.github.io/cite_v2/sitemap.xml
+Sitemap: https://pierceplucker.github.io/web2/sitemap.xml
