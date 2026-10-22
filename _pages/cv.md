@@ -6,4 +6,4 @@ nav: true
 nav_order: 5
 ---
 
-[Pierce Plucker CV]({{ '/assets/pdf/cv_web2.pdf' | relative_url }})
+[Pierce Plucker CV]({{ '/assets/pdf/CV_upload_1022.pdf' | relative_url }})
